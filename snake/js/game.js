@@ -5,7 +5,7 @@ const ground = new Image();
 ground.src = "img/ground.png";
 
 const foodImg = new Image();
-foodImg.src = "img/1343433_sex_penis_dildo_icon.png";
+foodImg.src = "img/2137818_apple_food_fruit_organic_vegan_icon.png";
 
 let box = 32;
 
